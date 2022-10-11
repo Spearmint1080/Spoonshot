@@ -18,6 +18,7 @@ n= List of Ingredients
 
 Run Instructions: All necessary libraries such as nltk must be present.
 
+https://github.com/Spearmint1080/Spoonshot/blob/47f7aa3ab5a0f0508511e4e053c1fb8955ae5507/Q1.ipynb
 
 Q2
 
@@ -26,6 +27,12 @@ O(n) implementation to determine the pattern provided.
 The pattern is simply the product of all elements excluding the elements at the same position as that being determined.
 
 Appropriate conditions for the presence of Zeros in the input have been incorporated to reduce the implementation to O(n).
+
+https://github.com/Spearmint1080/Spoonshot/blob/47f7aa3ab5a0f0508511e4e053c1fb8955ae5507/Q2.py
+
+Q3
+
+https://github.com/Spearmint1080/Spoonshot/blob/47f7aa3ab5a0f0508511e4e053c1fb8955ae5507/Q3_DS%20Challenge_SpoonShot.pdf
 
 
 
